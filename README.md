@@ -1,6 +1,8 @@
-# 📊 Analisa & Cleaning Dataset Transaksi Penjualan
+# 📊 Analisis & Preprocessing Data Transaksi Penjualan — End-to-End Pipeline
 
-Proyek analisa data end-to-end menggunakan Python — mencakup data cleaning, integration, transformation, reduction (PCA), dan text processing (NLP) pada dataset transaksi penjualan berskala 5.000 baris.
+Studi kasus analisa data end-to-end menggunakan Python — mencakup data cleaning, integration, transformation, reduction (PCA), dan text processing (NLP) pada dataset transaksi penjualan berskala 5.000 baris, dari data mentah sampai insight dan visualisasi.
+
+🔗 **Repo pendamping:** [Data Preprocessing Pipeline](https://github.com/agusdwijayanto/data-preprocessing-practice) — versi ringkas yang berfokus pada tahapan preprocessing inti.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
